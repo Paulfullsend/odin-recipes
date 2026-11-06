@@ -1,0 +1,81 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#mainbg {
+  background-size: cover;
+  background-image: url(images/mainpageimg.avif);
+}
+
+.main h1 {
+  color: rgb(228, 233, 143);
+  font-family: "Oswald";
+  font-size: 200px;
+  padding: 0;
+  margin: 0px 0px 50px 0px;
+  line-height: 0.83;
+}
+
+.main ul {
+  font-family: "Oswald";
+  color: white;
+}
+
+.main li {
+  font-size: 80px;
+  text-decoration: none;
+}
+
+.main li a {
+  text-decoration: none;
+  color: rgb(237, 230, 230);
+}
+
+#lembg {
+  background-image: url(./images/lemon-meringue-pie-image.avif);
+  background-size: cover;
+}
+
+.lemmer h1 {
+  color: rgb(81, 81, 78);
+  font-family: "Oswald";
+  font-size: 200px;
+  padding: 0;
+  margin: 0px 0px 50px 0px;
+  line-height: 0.83;
+}
+
+.lemmer p {
+  font-family: "Oswald";
+}
+
+.lemmer h3 {
+  font-family: "Oswald";
+  font-size: 70px;
+  color: bisque;
+}
+
+.lemmer ul {
+  font-family: "Oswald";
+  color: white;
+}
+
+.lemmer li {
+  font-size: 30px;
+  text-decoration: none;
+}
+
+.lemmer li a {
+  text-decoration: none;
+  color: rgb(237, 230, 230);
+}
+
+.lemmer ol {
+  font-family: "Oswald";
+  color: white;
+}
+
+.lemmer ol li {
+}
+
