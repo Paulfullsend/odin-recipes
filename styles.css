@@ -76,6 +76,134 @@
   color: white;
 }
 
-.lemmer ol li {
+#engmufbg {
+  background-image: url(./images/english-muffin-pic-.jpg);
+  background-size: cover;
 }
 
+.engmuf h1 {
+  color: rgb(81, 81, 78);
+  font-family: "Oswald";
+  font-size: 200px;
+  padding: 0;
+  margin: 0px 0px 50px 0px;
+  line-height: 0.83;
+}
+
+.engmuf p {
+  font-family: "Oswald";
+}
+
+.engmuf h3 {
+  font-family: "Oswald";
+  font-size: 70px;
+  color: bisque;
+}
+
+.engmuf ul {
+  font-family: "Oswald";
+  color: white;
+}
+
+.engmuf li {
+  font-size: 30px;
+  text-decoration: none;
+}
+
+.engmuf li a {
+  text-decoration: none;
+  color: rgb(237, 230, 230);
+}
+
+.engmuf ol {
+  font-family: "Oswald";
+  color: white;
+}
+
+#cotpiebg {
+  background-image: url(./images/english-cottage-pie-pic.jpg);
+  background-size: cover;
+}
+
+.cotpie h1 {
+  color: rgb(81, 81, 78);
+  font-family: "Oswald";
+  font-size: 200px;
+  padding: 0;
+  margin: 0px 0px 50px 0px;
+  line-height: 0.83;
+}
+
+.cotpie p {
+  font-family: "Oswald";
+}
+
+.cotpie h3 {
+  font-family: "Oswald";
+  font-size: 70px;
+  color: bisque;
+}
+
+.cotpie ul {
+  font-family: "Oswald";
+  color: white;
+}
+
+.cotpie li {
+  font-size: 30px;
+  text-decoration: none;
+}
+
+.cotpie li a {
+  text-decoration: none;
+  color: rgb(237, 230, 230);
+}
+
+.cotpie ol {
+  font-family: "Oswald";
+  color: white;
+}
+
+#eggbenbg {
+  background-image: url(./images/english-cottage-pie-pic.jpg);
+  background-size: cover;
+}
+
+.eggben h1 {
+  color: rgb(81, 81, 78);
+  font-family: "Oswald";
+  font-size: 200px;
+  padding: 0;
+  margin: 0px 0px 50px 0px;
+  line-height: 0.83;
+}
+
+.eggben p {
+  font-family: "Oswald";
+}
+
+.eggben h3 {
+  font-family: "Oswald";
+  font-size: 70px;
+  color: bisque;
+}
+
+.eggben ul {
+  font-family: "Oswald";
+  color: white;
+}
+
+.eggben li {
+  font-size: 30px;
+  text-decoration: none;
+}
+
+.eggben li a {
+  text-decoration: none;
+  color: rgb(237, 230, 230);
+}
+
+.eggben ol {
+  font-family: "Oswald";
+  color: white;
+}
